@@ -1,0 +1,1 @@
+﻿declare function given(data: any, callback: (value: any) => void, wrap?: boolean): void; 
