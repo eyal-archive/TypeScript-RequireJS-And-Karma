@@ -9,6 +9,12 @@ After I've spent quite a bit of time I finally got it to work and this example i
 
 Besides the structure of the project I also demonstrate how-to extend the built-in types and test them in TypeScript as well as a regular class written in TypeScript.
 
+Running the Tests
+-----------------
+The port for Karma is 8380 so make sure you're using this port or change it yourself to whatever you want.
+
+./karma.sh start
+
 Directory Structure
 -------------------
 ```
@@ -90,9 +96,4 @@ Directory Structure
 28 directories, 45 files
 ```
 
-Running the Tests
------------------
-The port for Karma is 8380 so make sure you're using this port or change it yourself to whatever you want.
-
-./karma.sh start
-
+**Enjoy!**
