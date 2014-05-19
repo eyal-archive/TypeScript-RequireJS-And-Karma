@@ -9,6 +9,7 @@ After I've spent quite a bit of time I finally got it to work and this example i
 
 Besides the structure of the project I also demonstrate how-to extend the built-in types and test them in TypeScript as well as a regular class written in TypeScript.
 
+```
 Directory Structure
 -------------------
 .
@@ -87,6 +88,7 @@ Directory Structure
 `-- karma.sh
 
 28 directories, 45 files
+```
 
 Running the Tests
 -----------------
