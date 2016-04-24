@@ -1,1 +1,1 @@
-./node_modules/karma/bin/karma $* './tools/karma/karma.conf.js'
+./node_modules/.bin/karma $* './tools/karma/karma.conf.js'
