@@ -3,13 +3,14 @@ define(["framework/core/object"], () =>
 {
 	describe("isUndefined", () => {
 
-		it("should return true when the object is undefined", () => {
-			var obj;
+	    it("should return true when the object is undefined",
+	    () => {
+	        var obj;
 
-			var result = Object.isUndefined(obj);
+	        var result = Object.isUndefined(obj);
 
-			expect(result).toBeTruthy();
-		});
+	        expect(result).toBeTruthy();
+	    });
 
 		it("should return false when the object is defined", () => {
 			var obj = {};
